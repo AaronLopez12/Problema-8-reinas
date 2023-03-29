@@ -1,0 +1,47 @@
+##########################################
+De un total de:  10  experimentos
+Cada uno de ellos con:  1000  iteraciones
+Y una población conformada por:  200
+Utilizando una Probabilidad de mutación de:  0.1
+Se obtuvo la siguiente precisión:  0.30000000000000004
+###########################################
+
+
+
+###########################################
+De un total de:  10  experimentos
+Cada uno de ellos con:  1000  iteraciones
+Y una población conformada por:  200
+Utilizando una Probabilidad de mutación de:  0.2
+Se obtuvo la siguiente precisión:  0.19999999999999996
+###########################################
+
+
+
+###########################################
+De un total de:  10  experimentos
+Cada uno de ellos con:  1000  iteraciones
+Y una población conformada por:  200
+Utilizando una Probabilidad de mutación de:  0.3
+Se obtuvo la siguiente precisión:  0.5
+###########################################
+
+
+
+###########################################
+De un total de:  10  experimentos
+Cada uno de ellos con:  1000  iteraciones
+Y una población conformada por:  200
+Utilizando una Probabilidad de mutación de:  0.4
+Se obtuvo la siguiente precisión:  0.4
+###########################################
+
+
+
+###########################################
+De un total de:  10  experimentos
+Cada uno de ellos con:  1000  iteraciones
+Y una población conformada por:  200
+Utilizando una Probabilidad de mutación de:  0.5
+Se obtuvo la siguiente precisión:  0.4
+###########################################
